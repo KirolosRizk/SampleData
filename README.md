@@ -1,5 +1,5 @@
 <!-- ######## This is a comment, visible only in the source editor  ######## -->
-<h1 style="color: #4485b8;">Readme</h1>
+<h1 style="color: #4485b8;">README</h1>
 <p><strong style="color: #000;">Note:</strong> This readme file is written in HTML, to view the HTML code click <a href="https://raw.githubusercontent.com/KirolosRizk/SampleData/main/README.md" title="Raw">here</a>.</p>
 <h2><strong>Background:</strong></h2>
 <p>This project uses pandas and matplotlib to parse and process a csv file that contains information about NBA players and displays the statistical findings.</p>
